@@ -17,7 +17,8 @@ int main(void)
             \n\n
             \tEsse código opera basicamente a base do switch. 
             Primeiro ele lê o caractere introduzido e atribui a variável operadora, depois o switch abre, lê os dados de entrada e faz a operação.
-            \nTentei incrementar o código, mas testei testei testei e não consegui sozinho. Queria fazer com que o usuário pudesse escolher voltar para a seleção de operação depois de realizar uma e também mensagem de erro caso ele entrasse dados inválidos.\n\n");
+            \nTentei incrementar o código, mas testei testei testei e não consegui sozinho. Queria fazer com que o usuário pudesse escolher voltar 
+            para a seleção de operação depois de realizar uma e também mensagem de erro caso ele entrasse dados inválidos.\n\n");
   
             printf("Selecione a operação desejada:\n");
             printf("'+' : Soma\n");
