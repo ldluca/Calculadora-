@@ -9,7 +9,7 @@ int main(void)
            
 
       
-            printf("\tCalculadora básica feita por Leonardo D'Luca,
+            printf("\tCalculadora básica feita por Leonardo D'Luca (ldluca no github),
             curso de Design Gráfico (o que estou fazendo aqui), UniLaSalle Canoas, 
             Matrícula 201920059
             \n\n\
